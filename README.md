@@ -14,3 +14,12 @@ A passionate Full Stack Developer from Pakistan.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/>
 </p>
+
+### 📊 GitHub Stats
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umar-farooque123&show_icons=true&theme=tokyonight)
+
+---
+
+### 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-farooque123&layout=compact&theme=tokyonight)
+
