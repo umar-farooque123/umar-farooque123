@@ -16,7 +16,7 @@ A passionate Full Stack Developer from Pakistan.
 </p>
 
 ### 📊 GitHub Stats
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umar-farooque123&show_icons=true&theme=tokyonight)
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umar-farooque123&show_icons=true&theme=ffffff)
 
 ---
 
