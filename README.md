@@ -21,5 +21,5 @@ A passionate Full Stack Developer from Pakistan.
 ---
 
 ### 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-farooque123&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-farooque123&layout=compact&bg_color=ffffff&text_color=000000&icon_color=2f80ed)
 
