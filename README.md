@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=I'm+Umar+Farooque!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=blue&vCenter=true&width=600&lines=I'm+Umar+Farooque!" alt="Typing SVG" />
 </p>
 
 A Passionate Full Stack Developer From Pakistan.
