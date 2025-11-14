@@ -1,7 +1,7 @@
 <!-- Typing SVG Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Umar+Farooque+Frontend+Developer;Turning+ideas+into+interactive+digital+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Umar+Farooque+Frontend+Developer;Turning+ideas+into+interactive+digital+interfaces" alt="Typing SVG" />
 </p>
 
 ---
