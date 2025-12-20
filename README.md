@@ -13,14 +13,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"width="45"height="45"alt="Tailwind CSS"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-💻 I’m a passionate frontend developer focused on creating modern, responsive, and user-friendly websites.  
+💻 I’m a experience frontend developer focused on creating modern, responsive, and user-friendly websites.  
 🎯 Skilled in **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**.  
 🚀 Continuously learning and exploring new tools to sharpen my development skills.
 
